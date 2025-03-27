@@ -1,0 +1,24 @@
+{
+  "name": "02_express",
+  "version": "1.0.0",
+  "description": "Udemy Lessons",
+  "main": "02_express.js",
+  "type": "module",
+  "scripts": {
+    "start": "node 02_express.js ",
+    "abhay": "nodemon 02_express.js"
+  },
+  "keywords": [
+    "express",
+    "tea"
+  ],
+  "author": "abhay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
